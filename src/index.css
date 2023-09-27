@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btnn:hover {
+  box-shadow: 0px 0px 10px 5px rgb(60, 60, 219);
+}
+
+.img {
+  box-shadow: 15px 5px 20px #00000080;
+}
